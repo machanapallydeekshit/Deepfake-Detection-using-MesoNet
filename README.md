@@ -29,6 +29,11 @@ Deepfakes are synthetic media where a person’s face or voice is replaced with 
 
 ---
 
+# Execution Demo 
+
+https://www.linkedin.com/posts/machanapallydeekshit_deepfakedetection-aiproject-machinelearning-activity-7354553358952681473-Kh_4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADu2ZrYBRlfRCQAdBDZVa7_uxaZXi6Yi8So
+
+---
 # Project Output Screenshots
 
 ## Uploading Video From Local Files
